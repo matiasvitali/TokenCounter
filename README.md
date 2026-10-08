@@ -14,8 +14,8 @@ Claude Code borra sus transcripts a los 30 días, pero `tokens.db` conserva el h
 
 ```
 TokenCounter/
-├── install.cmd / uninstall.cmd       doble clic: instalan o desinstalan (piden permisos de administrador)
-├── LEEME.md                         esta guía
+├── install.cmd / uninstall.cmd      doble clic: instalan o desinstalan (piden permisos de administrador)
+├── README.md                        esta guía
 ├── config/limits.json               límites de tokens de tu plan (ver más abajo)
 ├── src/                             código: collect.py, report.py, otel_receiver.py, managed_settings.py
 ├── scripts/                         install.ps1, uninstall.ps1

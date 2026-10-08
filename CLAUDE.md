@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-TokenCounter mide cuántos tokens de Claude Code gasta cada usuario de una VM Windows compartida (una sola cuenta de Claude) y genera un reporte HTML. Solo stdlib de Python (3.8+), sin dependencias. Todo el texto de cara al usuario (código, comentarios, reporte, docs) está en español. `LEEME.md` es la documentación de usuario: mantenla al día cuando cambie el comportamiento.
+TokenCounter mide cuántos tokens de Claude Code gasta cada usuario de una VM Windows compartida (una sola cuenta de Claude) y genera un reporte HTML. Solo stdlib de Python (3.8+), sin dependencias. Todo el texto de cara al usuario (código, comentarios, reporte, docs) está en español. `README.md` es la documentación de usuario: mantenla al día cuando cambie el comportamiento.
 
 ## Comandos
 
